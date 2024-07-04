@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "State of Grace",
+    "duration": "4:55",
+    "image": "assets/img/red-tay.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Red",
+    "duration": "3:43",
+    "image": "assets/img/red-tay.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Treacherous",
+    "duration": "4:02",
+    "image": "assets/img/container1-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "I Knew You Were Trouble",
+    "duration": "3:39",
+    "image": "assets/img/rectangle12.png"
+  },
+  {
+    "id": 5,
+    "title": "All Too Well",
+    "duration": "5:28",
+    "image": "assets/img/1636794388-taylor.jpg.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "22",
+    "duration": "3:52",
+    "image": "assets/img/container1-2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "I Almost Do",
+    "duration": "4:04",
+    "image": "assets/img/red-tay.jpg"
+  },
+  {
+    "id": 8,
+    "title": "We Are Never Ever Getting Back Together",
+    "duration": "3:13",
+    "image": "assets/img/rectangle11.png"
+  },
+  {
+    "id": 9,
+    "title": "Stay Stay Stay",
+    "duration": "3:25",
+    "image": "assets/img/red-tay.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Last Time ft. Gary Lightbody",
+    "duration": "4:59",
+    "image": "assets/img/red-tay.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Holy Ground",
+    "duration": "3:22",
+    "image": "assets/img/rectangle11.png"
+  },
+  {
+    "id": 12,
+    "title": "Sad Beautiful Tragic",
+    "duration": "4:44",
+    "image": "assets/img/container1-1.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Lucky One",
+    "duration": "4:01",
+    "image": "assets/img/container1-2.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Everything Has Changed ft. Ed Sheeran",
+    "duration": "4:05",
+    "image": "assets/img/red-tay.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Starlight",
+    "duration": "3:40",
+    "image": "assets/img/1636794388-taylor.jpg.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Begin Again",
+    "duration": "3:58",
+    "image": "assets/img/rectangle12.png"
+  }
+]

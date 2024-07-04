@@ -93,6 +93,9 @@ videoInsertado.addEventListener('mouseover', function () {
 
 
 
+
+
+
 let slider = tns({
     container: '.my-slider',
     axis: horizontal,

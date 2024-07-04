@@ -12138,4 +12138,27 @@ iframe {
 
 #cancionDuracion {
   color: black;
+}
+
+.contenedor-0-nosotros {
+  background-color: black;
+}
+
+.custom-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.custom-prev, .custom-next {
+  border: none;
+}
+
+.my-slider {
+  display: flex;
+}
+
+.my-slider img {
+  width: 100%;
 }/*# sourceMappingURL=proyecto.css.map */

@@ -1,3 +1,5 @@
+import { tns } from "./node_modules/tiny-slider/src/tiny-slider"
+
 $(document).ready(function() {
 
     $('.noticia-container').hover(function() {
@@ -87,3 +89,30 @@ videoInsertado.addEventListener('mouseover', function () {
         alert('Sabías que Swift citó las obras de Barbara Stanwyck, John Cassavetes y Noah Baumbach como influencias artísticas para el video de all too well (10 minute version) ¡Revísalo cuando quieras en youtube!');
     }, 3000);  
 });
+
+
+
+
+let slider = tns({
+    container: '.my-slider',
+    axis: horizontal,
+    items: 1,
+    arrowKeys: true,
+    speed: 400,
+    autoplay: true,
+    
+    responsive: {
+      640: {
+        edgePadding: 20,
+        gutter: 20,
+        items: 2
+      },
+      700: {
+        gutter: 20
+      },
+      900: {
+        items: 3
+      }
+    }
+  });
+

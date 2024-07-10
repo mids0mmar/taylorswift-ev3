@@ -1,4 +1,3 @@
-import { tns } from "./node_modules/tiny-slider/src/tiny-slider"
 
 $(document).ready(function() {
 
@@ -26,7 +25,7 @@ $(document).ready(function() {
     });
 
     $.getJSON({
-        url: 'songss.json',
+        url: 'https://mids0mmar.github.io/taylorswift-ev3/ev-3/songss.json',
         success: function(data) {
             let listaCanciones1 = $('#listaCanciones1');
             let listaCanciones2 = $('#listaCanciones2');

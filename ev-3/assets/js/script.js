@@ -92,30 +92,3 @@ videoInsertado.addEventListener('mouseover', function () {
 
 
 
-
-
-
-
-let slider = tns({
-    container: '.my-slider',
-    axis: horizontal,
-    items: 1,
-    arrowKeys: true,
-    speed: 400,
-    autoplay: true,
-    
-    responsive: {
-      640: {
-        edgePadding: 20,
-        gutter: 20,
-        items: 2
-      },
-      700: {
-        gutter: 20
-      },
-      900: {
-        items: 3
-      }
-    }
-  });
-

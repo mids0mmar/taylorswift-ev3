@@ -12004,18 +12004,18 @@ html {
 }
 
 body {
-  background-color: #04020B !important;
+  background-color: #F5F5F5 !important;
 }
 body p {
-  color: white;
+  color: #595959;
   font-family: "Montserrat", sans-serif;
 }
 body h1, body .h1, body h2, body .h2, body h3, body .h3, body h4, body .h4 {
-  color: white;
+  color: #595959;
   font-family: "Montserrat", sans-serif;
 }
 body ol li {
-  color: white;
+  color: #595959;
   font-family: "Montserrat", sans-serif;
 }
 

@@ -25,7 +25,7 @@ $(document).ready(function() {
     });
 
     $.getJSON({
-        url: 'https://mids0mmar.github.io/taylorswift-ev3/ev-3/songss.json',
+        url: 'songss.json',
         success: function(data) {
             let listaCanciones1 = $('#listaCanciones1');
             let listaCanciones2 = $('#listaCanciones2');

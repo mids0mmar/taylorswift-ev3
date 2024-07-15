@@ -2,97 +2,97 @@
   {
     "id": 1,
     "title": "State of Grace",
-    "duration": "4:55",
-    "image": "assets/img/red-tay.jpeg"
+    "lyrics": "And I never (never) saw you coming, and I'll never (never) be the same",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/container1-1.jpg"
   },
   {
     "id": 2,
     "title": "Red",
-    "duration": "3:43",
-    "image": "assets/img/red-tay.jpg"
+    "lyrics": "but loving him was red",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/container1-2.jpg"
   },
   {
     "id": 3,
     "title": "Treacherous",
-    "duration": "4:02",
-    "image": "assets/img/container1-1.jpg"
+    "lyrics": "this love is treacherous",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/1636794388-taylor.jpg.jpeg"
   },
   {
     "id": 4,
     "title": "I Knew You Were Trouble",
-    "duration": "3:39",
-    "image": "assets/img/rectangle12.png"
+    "lyrics": "cause I knew you were a trouble when you walked in",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/easter-eggs-comp-1636767349.jpg"
   },
   {
     "id": 5,
     "title": "All Too Well",
-    "duration": "5:28",
-    "image": "assets/img/1636794388-taylor.jpg.jpeg"
+    "lyrics": "it was rare, you were there, you remember it all too well",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/alltoowell.webp"
   },
   {
     "id": 6,
     "title": "22",
-    "duration": "3:52",
-    "image": "assets/img/container1-2.jpg"
+    "lyrics": "I don't know about you, but I'm feeling 22",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/rectangle11.png"
   },
   {
     "id": 7,
     "title": "I Almost Do",
-    "duration": "4:04",
-    "image": "assets/img/red-tay.jpg"
+    "lyrics": "and I just want to tell you, it takes everything in me not to call you",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/erastour-azul.webp"
   },
   {
     "id": 8,
     "title": "We Are Never Ever Getting Back Together",
-    "duration": "3:13",
-    "image": "assets/img/rectangle11.png"
+    "lyrics": "3:13",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/taylorgigi.jpeg"
   },
   {
     "id": 9,
     "title": "Stay Stay Stay",
-    "duration": "3:25",
-    "image": "assets/img/red-tay.jpg"
+    "lyrics": "stay, I've been loving you for quite some time",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/taylorhayley.png"
   },
   {
     "id": 10,
     "title": "The Last Time ft. Gary Lightbody",
-    "duration": "4:59",
-    "image": "assets/img/red-tay.jpeg"
+    "lyrics": "this is the last time I'm asking you this: put my name in the top of your list",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/sadie.jpg"
   },
   {
     "id": 11,
     "title": "Holy Ground",
-    "duration": "3:22",
-    "image": "assets/img/rectangle11.png"
+    "lyrics": "and right there where we stood, was holy ground",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/rectangle18.png"
   },
   {
     "id": 12,
     "title": "Sad Beautiful Tragic",
-    "duration": "4:44",
-    "image": "assets/img/container1-1.jpg"
+    "lyrics": "what a sad beautiful tragic love affair",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/rectangle14.png"
   },
   {
     "id": 13,
     "title": "The Lucky One",
-    "duration": "4:01",
-    "image": "assets/img/container1-2.jpg"
+    "lyrics": "and they tell you that you're lucky but you're so confused",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/rectangle18.png"
   },
   {
     "id": 14,
     "title": "Everything Has Changed ft. Ed Sheeran",
-    "duration": "4:05",
-    "image": "assets/img/red-tay.jpg"
+    "lyrics": "all I know is everything has changed",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/tay-beyonce-vertical.png"
   },
   {
     "id": 15,
     "title": "Starlight",
-    "duration": "3:40",
-    "image": "assets/img/1636794388-taylor.jpg.jpeg"
+    "lyrics": "oh my, what a marvelous moon",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/haimtay.png"
   },
   {
     "id": 16,
     "title": "Begin Again",
-    "duration": "3:58",
-    "image": "assets/img/rectangle12.png"
+    "lyrics": "on a wednesday I watched it begin again",
+    "image": "https://mids0mmar.github.io/taylorswift-ev3/ev-3/assets/img/edsheeranytay.jpeg"
   }
 ]

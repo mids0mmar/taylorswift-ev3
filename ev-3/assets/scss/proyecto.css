@@ -11982,7 +11982,6 @@ html {
 }
 
 .nav-menu {
-  background-color: transparent !important;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -11996,11 +11995,21 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 
+.menu1 {
+  background-color: #E8E8E8;
+  color: black;
+  height: 40px;
+}
+
+.menu2 {
+  background-color: black;
+}
+
 .containerportada {
-  background-image: url(../img/ccomponent11.png);
+  background-image: url(../img/tayportada-2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 700px;
+  height: 620px;
 }
 
 body {
@@ -12029,15 +12038,23 @@ iframe {
   margin-bottom: 120px;
 }
 
-.producto1, .producto2, .producto3, .producto4 {
-  border: solid 1px #550A00;
-  background-color: #550A00;
-  border-radius: 10%;
+.container1 {
+  margin-bottom: 120px;
 }
 
-.container1 {
-  margin-top: 120px;
-  margin-bottom: 120px;
+.img1-taylorwho {
+  border-left: 1px solid #FCDBDB;
+  border-right: 1px solid #FCDBDB;
+}
+
+.img2-taylorwho {
+  border-right: 1px solid #FCDBDB;
+}
+
+.taylorsversion {
+  font-size: 140px;
+  font-weight: 100;
+  opacity: 0.1;
 }
 
 .contenedor3 {
@@ -12048,12 +12065,32 @@ iframe {
   margin-top: 100px !important;
 }
 
+.producto1, .producto2, .producto3, .producto4 {
+  border: solid 1px #550A00;
+  background-color: #550A00;
+}
+
+.image-container img {
+  transition: opacity 0.1s ease-in-out;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hover-imagen {
+  opacity: 0;
+}
+
+.image-container:hover .hover-imagen {
+  opacity: 1;
+}
+
 .galeria {
   margin-top: 100px !important;
 }
 
 .iluminar {
-  filter: brightness(1.2);
+  filter: brightness(1.3);
   transition: filter 0.3s ease;
 }
 
@@ -12077,22 +12114,6 @@ iframe {
   border-color: red;
 }
 
-.image-container img {
-  transition: opacity 0.1s ease-in-out;
-}
-
-.hover-imagen {
-  opacity: 0;
-}
-
-.image-container:hover .hover-imagen {
-  opacity: 1;
-}
-
-.image-container:hover .main-imagen {
-  opacity: 0;
-}
-
 .carouselinterno {
   width: auto;
   height: 560px;
@@ -12108,7 +12129,7 @@ iframe {
 
 .blanco-y-negro {
   filter: grayscale(100%);
-  transition: filter 0.3s ease; /* Agrega una transición suave para el efecto */
+  transition: filter 0.8s ease;
 }
 
 .footer1 {
@@ -12119,7 +12140,7 @@ iframe {
 }
 .footer1 li {
   list-style: none;
-  color: white;
+  color: #595959;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -12138,10 +12159,6 @@ iframe {
 
 #cancionDuracion {
   color: black;
-}
-
-.contenedor-0-nosotros {
-  background-color: black;
 }
 
 .custom-controls {

@@ -49,6 +49,7 @@
       height: 620px; 
   }
   
+  
   body{
   
       p {
@@ -71,7 +72,11 @@
   }
   
 
-  
+  #contenidoTraduccion {
+      p {
+      color: white !important; 
+      }
+}
   
   iframe {
     width: 100% !important;
